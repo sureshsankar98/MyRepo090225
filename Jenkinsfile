@@ -3,7 +3,7 @@ pipeline {
     stages {
 	stage('Code Checkout') {
             steps {
-                echo 'Check Out code from SCM' 
+                echo 'Check Out code from SCM  Suresh' 
             }
         }    
         stage('Code Analysis') {
